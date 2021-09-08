@@ -1,1 +1,1 @@
-# szkielet
+# rezpozytorium
